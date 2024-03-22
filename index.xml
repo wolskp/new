@@ -2,7 +2,7 @@
 <level>
   <owner>wolskp</owner>
   <repo>new</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
     <en>5bd88677920c30e76f2c5c2cc76867304e7ce929e90b6ad6b51e60ac49bd7fe9</en>
@@ -25,7 +25,7 @@
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
     <notes>
-      <note number="1" values="1" ticks="0" durationTicks="95" ppq="96" velocity="0.843"/>
+      <note number="1" values="1" ticks="0" durationTicks="95" ppq="96" velocity="0.606"/>
       <note number="2" values="1" ticks="96" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="3" values="1" ticks="192" durationTicks="95" ppq="96" velocity="0.913"/>
       <note number="4" values="1" ticks="288" durationTicks="95" ppq="96" velocity="0.913"/>
